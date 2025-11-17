@@ -570,6 +570,8 @@ div > a {
    z-index: 1;
    background: url(../imgesp2/livingroom.jpg);
    background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
    transform: rotateY(180deg);
    transform-style: preserve-3d;
    opacity: 0;
@@ -590,8 +592,10 @@ div > a {
    top: 0;
    left: 0px;
    z-index: 1;
-   background: url(../imgesp2/fresh-potted-flower-plants-growing-garden.jpg);
+   background-imge: url(../imgesp2/fresh-potted-flower-plants-growing-garden.jpg);
    background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;    
    transform: rotateY(180deg);
    transform-style: preserve-3d;
    opacity: 0;
@@ -614,6 +618,8 @@ div > a {
    z-index: 1;
    background: url(../imgesp2/kitchen-with-small-space-modern-design.jpg);
    background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
    transform: rotateY(180deg);
    transform-style: preserve-3d;
    opacity: 0;
@@ -636,6 +642,8 @@ div > a {
    z-index: 1;
    background: url(../imgesp2/japanese-house-entrance.jpg);
    background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
    transform: rotateY(180deg);
    transform-style: preserve-3d;
    opacity: 0;
